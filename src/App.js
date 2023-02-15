@@ -18,6 +18,7 @@ const App = () => {
                     <div className='row mt-3'>
                         {/* Add Budget component here under */}    
                 // Budget component
+                                    // Budget component
                     <div className='col-sm'>
                         <Budget />
                     </div>
